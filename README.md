@@ -1,5 +1,11 @@
 # Selectores
 
+El objetivo de esta app básicamente es aprender a reaccionar cuando información de un formulario cambia, en este caso haremos:
+
+1. Selectores anidados
+2. Llenar selectores desde peticiones HTTP
+3. Encadenamiento de operadores de RXJS
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.3.9.
 
 ## Development server
